@@ -10,4 +10,4 @@ set(SOURCE_FILES main.cpp camera.h)
 add_executable(filmDrone ${SOURCE_FILES})
 
 include_directories(${OpenCV_INCLUDE_DIRS})
-target_link_libraries(catchit ${OpenCV_LIBS})
+target_link_libraries(filmDrone ${OpenCV_LIBS})
