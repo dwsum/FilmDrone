@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FilmDrone.dir/main.cpp.o  -o FilmDrone 
