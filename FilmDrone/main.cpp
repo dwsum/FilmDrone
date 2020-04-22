@@ -18,9 +18,8 @@
 
 
 using namespace std;
-using namespace cv;
 
-VideoCapture cap(0);
+cv::VideoCapture cap(0);
 
 int main() {
     int cntr = 0;
