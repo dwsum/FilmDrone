@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.IMDEoRoWrR/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.IMDEoRoWrR/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FilmDrone">
-				<Option output="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/FilmDrone" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug"/>
+				<Option output="/tmp/tmp.IMDEoRoWrR/cmake-build-debug/FilmDrone" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.IMDEoRoWrR/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 FilmDrone"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 FilmDrone"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="FilmDrone/fast">
-				<Option output="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/FilmDrone" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug"/>
+				<Option output="/tmp/tmp.IMDEoRoWrR/cmake-build-debug/FilmDrone" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.IMDEoRoWrR/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,27 +67,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 FilmDrone/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 FilmDrone/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/tmp/tmp.Jnvnv6Em3i/cmake-build-debug"/>
+				<Option working_dir="/tmp/tmp.IMDEoRoWrR/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.Jnvnv6Em3i/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/tmp/tmp.IMDEoRoWrR/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/tmp/tmp.Jnvnv6Em3i/main.cpp">
+		<Unit filename="/tmp/tmp.IMDEoRoWrR/main.cpp">
 			<Option target="FilmDrone"/>
 		</Unit>
-		<Unit filename="/tmp/tmp.Jnvnv6Em3i/CMakeLists.txt">
+		<Unit filename="/tmp/tmp.IMDEoRoWrR/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
